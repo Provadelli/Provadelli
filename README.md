@@ -40,13 +40,6 @@ Sistema de gerenciamento de restaurantes desenvolvido em Python para prática de
 
 ---
 
-## 📊 Estatísticas GitHub
-
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=Provadelli&show_icons=true&theme=github_dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Provadelli&layout=compact&theme=github_dark)
----
-
 ## 🎓 Certificações
 
 - Cursos de Python - Alura
