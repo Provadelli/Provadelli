@@ -42,13 +42,9 @@ Sistema de gerenciamento de restaurantes desenvolvido em Python para prática de
 
 ## 📊 Estatísticas GitHub
 
-<div align="center">
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Provadelli&show_icons=true&theme=tokyonight)
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Provadelli&show_icons=true&theme=transparent"/>
-
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Provadelli&layout=compact&theme=transparent"/>
-
-</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Provadelli&layout=compact&theme=tokyonight)
 
 ---
 
