@@ -1,4 +1,4 @@
-# 👨‍💻 Pedro Lucas Provadelli
+#  Pedro Lucas Provadelli
 
 ### Estudante de Engenharia de Software | Desenvolvedor em Formação
 
@@ -6,7 +6,7 @@ Olá! Sou estudante de Engenharia de Software na FIAP e apaixonado por tecnologi
 
 ---
 
-## 🚀 Tecnologias e Ferramentas
+##  Tecnologias e Ferramentas
 
 <div align="left">
 
@@ -16,7 +16,7 @@ Olá! Sou estudante de Engenharia de Software na FIAP e apaixonado por tecnologi
 
 ---
 
-## 📚 Atualmente Estudando
+##  Atualmente Estudando
 
 - Desenvolvimento Web
 - Python
@@ -27,20 +27,21 @@ Olá! Sou estudante de Engenharia de Software na FIAP e apaixonado por tecnologi
 
 ---
 
-## 💼 Projetos em Destaque
+##  Projetos em Destaque
 
-### ⚽ PeleScout NextGen
+###  PeleScout NextGen
 Plataforma voltada para conectar atletas, clubes e oportunidades esportivas, democratizando o acesso às peneiras e processos de avaliação.
 
-### 🐾 Adote.me
-Plataforma desenvolvida para facilitar a adoção responsável de animais, aproximando adotantes e instituições.
+###  NP Code Solutions
+Freelancer focado em venda de sites e serviços digitais.
 
-### 🍽️ Sabor Express
-Sistema de gerenciamento de restaurantes desenvolvido em Python para prática de lógica de programação e manipulação de dados.
+### Cartão de visitas Shine Rio
+Cartão de visitas digital que engloba vários setores em um só link
+
 
 ---
 
-## 🎓 Certificações
+##  Certificações
 
 - Cursos de Python - Alura
 - Formação Acadêmica em Engenharia de Software - FIAP
@@ -49,13 +50,13 @@ Sistema de gerenciamento de restaurantes desenvolvido em Python para prática de
 
 ---
 
-## 📫 Contato
+##  Contato
 
-📧 **Email:** pedroprovadelli@gmail.com
+ **Email:** pedroprovadelli@gmail.com
 
-💼 **LinkedIn:** linkedin.com/in/pedroprovadellidev/
+ **LinkedIn:** linkedin.com/in/pedroprovadellidev/
 
-🐙 **GitHub:** github.com/Provadelli
+ **GitHub:** github.com/Provadelli
 
 ---
 
