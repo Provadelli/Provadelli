@@ -44,7 +44,7 @@ Cartão de visitas digital que engloba vários setores em um só link
 ##  Certificações
 
 - Cursos de Python - Alura
-- Formação Acadêmica em Engenharia de Software - FIAP
+- Cursando Engenharia de Software - FIAP
 - Projetos Acadêmicos e Desenvolvimento Prático
 - Técnico em Eletrônica
 
