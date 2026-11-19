@@ -132,6 +132,7 @@ Plataforma cívica de **inteligência urbana e vigilância em saúde** para a pr
 |---|---|
 | [**web-quality-engineer**](https://github.com/Provadelli/web-quality-engineer) | Método para nota máxima no PageSpeed/Lighthouse, zero violações no axe, WCAG 2.2 AA, imagens otimizadas e responsividade |
 | [**seo-pro-max**](https://github.com/Provadelli/seo-pro-max) | Método completo de SEO, SEO local e visibilidade em IA, com foco em mudanças seguras |
+| [**readme-structure**](https://github.com/Provadelli/readme-structure) | Padrão para estruturar, escrever e revisar READMEs: cabeçalho com badges, Mermaid, testes com números reais, segurança e modelos para sistema, acadêmico, site e skill |
 
 ---
 
