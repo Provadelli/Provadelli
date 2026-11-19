@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:06b6d4&height=220&section=header&text=Pedro%20Lucas%20Provadelli&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Engenharia%20de%20Software%20%7C%20Estagi%C3%A1rio%20em%20Desenvolvimento&descSize=18&descAlignY=60" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1d4ed8,100:06b6d4&height=220&section=header&text=Pedro%20Lucas%20Souza%20Provadelli&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Engenharia%20de%20Software%20%7C%20Estagi%C3%A1rio%20em%20Desenvolvimento&descSize=18&descAlignY=60" width="100%" />
 
 <a href="https://github.com/Provadelli"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=06B6D4&center=true&vCenter=true&width=640&lines=Construindo+produtos+web+do+zero+ao+deploy;React+%7C+TypeScript+%7C+Next.js+%7C+Firebase;Performance%2C+acessibilidade+e+SEO;Em+busca+de+est%C3%A1gio+em+desenvolvimento" alt="Typing SVG" /></a>
 
