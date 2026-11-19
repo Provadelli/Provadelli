@@ -96,7 +96,7 @@ Sistema web desenvolvido para a clínica Orto Fortino, com foco em organização
 
 `TypeScript` `Vercel`
 
-[Ver projeto](https://orto-fortino.vercel.app) · [Código](https://github.com/Provadelli/OrtoFortino-System)
+[Ver projeto](https://ortofortino.vercel.app) · [Código](https://github.com/Provadelli/OrtoFortino-System)
 
 </td>
 </tr>
