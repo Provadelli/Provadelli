@@ -14,7 +14,7 @@
 
 ---
 
-## 👨‍💻 Sobre mim
+## Sobre mim
 
 Estudante de **Engenharia de Software na FIAP** e desenvolvedor **front-end / full stack** focado em entregar produtos reais: do design da interface ao deploy em produção. Desenvolvo sites e sistemas para diferentes segmentos, o que me deu experiência prática com requisitos reais, prazos, performance e SEO.
 
@@ -25,7 +25,7 @@ Estudante de **Engenharia de Software na FIAP** e desenvolvedor **front-end / fu
 
 ---
 
-## 🛠️ Stack e Ferramentas
+## Stack e Ferramentas
 
 **Front-end**
 
@@ -53,7 +53,7 @@ Estudante de **Engenharia de Software na FIAP** e desenvolvedor **front-end / fu
 
 ---
 
-## ⭐ Projetos em Destaque
+## Projetos em Destaque
 
 <table>
 <tr>
@@ -126,7 +126,7 @@ Plataforma cívica de **inteligência urbana e vigilância em saúde** para a pr
 
 ---
 
-## 🧰 Open Source: Skills para Claude
+## Open Source: Skills para Claude
 
 | Repositório | O que entrega |
 |---|---|
@@ -135,7 +135,7 @@ Plataforma cívica de **inteligência urbana e vigilância em saúde** para a pr
 
 ---
 
-## 🎓 Formação e Aprendizado
+## Formação e Aprendizado
 
 - **Engenharia de Software**, FIAP (em andamento)
 - **Técnico em Eletrônica**
@@ -144,7 +144,7 @@ Plataforma cívica de **inteligência urbana e vigilância em saúde** para a pr
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -157,7 +157,7 @@ Plataforma cívica de **inteligência urbana e vigilância em saúde** para a pr
 
 ---
 
-## 📫 Vamos conversar?
+## Vamos conversar?
 
 Estou em busca de uma **oportunidade de estágio** em desenvolvimento front-end e full stack, para aplicar na prática o que construo em projetos reais e continuar evoluindo em equipe.
 - [pedroprovadelli@gmail.com](mailto:pedroprovadelli@gmail.com)
