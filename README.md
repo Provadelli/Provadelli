@@ -91,34 +91,24 @@ Meu portfólio profissional, com apresentação de projetos, stack e contato, co
 </td>
 <td width="50%" valign="top">
 
-### StudyPlan System
-Sistema web para organização de planos de estudo, desenvolvido como projeto prático.
+### Orto Fortino System
+Sistema web desenvolvido para a clínica Orto Fortino, com foco em organização e experiência do usuário.
 
-`CSS` `JavaScript` `Vercel`
+`TypeScript` `Vercel`
 
-[Ver projeto](https://study-plan-system-wine.vercel.app) · [Código](https://github.com/Provadelli/StudyPlan-System)
+[Ver projeto](https://orto-fortino.vercel.app) · [Código](https://github.com/Provadelli/OrtoFortino-System)
 
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" valign="top">
 
-### Missão H2O
-Aplicação web desenvolvida com foco em conscientização e interação do usuário.
+### Viela Tech
+Plataforma cívica de **inteligência urbana e vigilância em saúde** para a prevenção da tuberculose na Rocinha (RJ). Um sensor mede o ar do beco, o morador faz a triagem pelo celular e o Agente Comunitário de Saúde recebe a fila de visitas priorizada, mesmo sem internet. Projeto em equipe, no qual atuo como colaborador.
 
-`TypeScript` `Vercel`
+`React` `Vite` `Tailwind` `Supabase` `Python` `ESP32` `Vercel`
 
-[Ver projeto](https://missao-h2o.vercel.app) · [Código](https://github.com/Provadelli/Miss-o-H2O)
-
-</td>
-<td width="50%" valign="top">
-
-### Mentalista
-Jogo web interativo publicado em produção.
-
-`TypeScript` `Vercel`
-
-[Ver projeto](https://mentalistagame.vercel.app) · [Código](https://github.com/Provadelli/Mentalista-)
+[Ver projeto](https://viela-tech-three.vercel.app) · [Código](https://github.com/miguelMontalvao/Viela-Tech)
 
 </td>
 </tr>
