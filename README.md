@@ -40,6 +40,7 @@ Estudante de **Engenharia de Software na FIAP** e desenvolvedor **front-end / fu
 **Back-end, Dados e Cloud**
 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -114,15 +115,14 @@ Plataforma cívica de **inteligência urbana e vigilância em saúde** para a pr
 </tr>
 </table>
 
-### Sites entregues a clientes
+### Sites e sistemas entregues a clientes
 
 | Cliente / Projeto | Descrição | Link |
 |---|---|---|
-| **Shine Rio** | Site institucional | [Acessar](https://site-shine-rio.vercel.app) |
 | **Shine Rio, Cartão Digital** | Cartão de visitas digital que reúne vários setores em um só link | [Acessar](https://shinerio-visitas.vercel.app) |
-| **Pinheiro Micho Advogados** | Site institucional para escritório de advocacia | [Acessar](https://site-pinheiro-micho-advogados.vercel.app) |
-| **WM Soluções** | Site institucional | [Acessar](https://wmsolucoes-seven.vercel.app) |
-| **Railo / Nexura RH** | Site institucional | [Acessar](https://site-nexurarh.vercel.app) |
+| **Shinatal System** | Portal de premiação de fim de ano da Shine Rio, com gestão auditável de faltas, advertências e avaliações | [Acessar](https://shinatal.shinerio.com) |
+| **Orto Fortino System** | Sistema web para a clínica Orto Fortino | [Acessar](https://ortofortino.vercel.app) |
+
 
 ---
 
